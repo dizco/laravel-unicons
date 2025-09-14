@@ -1,32 +1,32 @@
 {
-    "name": "@dizco/laravel-unicons",
-    "version": "4.2.0",
-    "description": "4,500+ vector icons",
-    "sideEffects": false,
-    "scripts": {
-      "generate": "node ./generate.js"
-    },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/dizco/laravel-unicons.git"
-    },
-    "keywords": [
-      "unicons",
-      "icons",
-      "iconscout",
-      "vector",
-      "icons"
-    ],
-    "author": "dizco",
-    "license": "BSD-3-Clause",
-    "bugs": {
-      "url": "https://github.com/Iconscout/unicons/issues"
-    },
-    "homepage": "https://iconscout.com/unicons",
-    "devDependencies": {
-      "@iconscout/unicons": "4.2.0"
-    },
-    "files": [
-      "unicons"
-    ]
-  }
+  "name": "@dizco/laravel-unicons",
+  "version": "4.2.1",
+  "description": "4,500+ vector icons",
+  "sideEffects": false,
+  "scripts": {
+    "generate": "node ./generate.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dizco/laravel-unicons.git"
+  },
+  "keywords": [
+    "unicons",
+    "icons",
+    "iconscout",
+    "vector",
+    "icons"
+  ],
+  "author": "dizco",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/Iconscout/unicons/issues"
+  },
+  "homepage": "https://iconscout.com/unicons",
+  "devDependencies": {
+    "@iconscout/unicons": "4.2.0"
+  },
+  "files": [
+    "unicons"
+  ]
+}
