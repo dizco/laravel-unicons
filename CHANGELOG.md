@@ -1,6 +1,6 @@
 # Changelog
 
-## [0.0.4](https://github.com/dizco/laravel-unicons/compare/v0.0.3...v0.0.4) (2025-09-14)
+## [4.2.0](https://github.com/dizco/laravel-unicons/compare/v0.0.3...v4.2.0) (2025-09-14)
 
 
 ### Bug Fixes
