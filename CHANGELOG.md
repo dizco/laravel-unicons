@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.2.1](https://github.com/dizco/laravel-unicons/compare/v4.2.0...v4.2.1) (2025-09-14)
+
+
+### Bug Fixes
+
+* Set release-type to node ([edd3841](https://github.com/dizco/laravel-unicons/commit/edd38417179823e5cc344b144598668c5e59480d))
+
 ## [4.2.0](https://github.com/dizco/laravel-unicons/compare/v0.0.3...v4.2.0) (2025-09-14)
 
 
