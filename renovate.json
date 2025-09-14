@@ -1,0 +1,21 @@
+{
+    "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+    "extends": [
+      "github>kiosoft/renovate-config"
+    ],
+    "packageRules": [
+        {
+          "matchPackageNames": ["@iconscout/unicons"],
+          "matchUpdateTypes": ["major", "minor", "patch"],
+          "enabled": true,
+          "postUpgradeTasks": {
+            "commands": [
+              "node -e \"const fs = require('fs'); const pkg = require('./package.json'); const uniconsVersion = require('./node_modules/@iconscout/unicons/package.json').version; pkg.version = uniconsVersion; fs.writeFileSync('./package.json', JSON.stringify(pkg, null, 2));\"",
+              "npm install"
+            ],
+            "fileFilters": ["package.json"]
+          }
+        }
+      ]
+  }
+  

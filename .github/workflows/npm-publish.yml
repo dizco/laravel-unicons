@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
-          node-version: 22.11.0
+          node-version: 22
           registry-url: "https://registry.npmjs.org"
       - name: Download & Build Icons
         run: npm ci --progress=false && npm run generate
