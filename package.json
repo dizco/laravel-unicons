@@ -1,6 +1,6 @@
 {
     "name": "@dizco/laravel-unicons",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "4,500+ vector icons",
     "sideEffects": false,
     "scripts": {

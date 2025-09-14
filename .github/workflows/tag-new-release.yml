@@ -3,7 +3,10 @@ name: Release on Version Change
 on:
   push:
     paths:
-      - "package.json" # Trigger only when package.json changes
+      - "package.json"
+      - "package-lock.json"
+    branches:
+      - master
 
 jobs:
   create-release:
