@@ -6,7 +6,7 @@
     "packageRules": [
         {
           "matchPackageNames": ["@iconscout/unicons"],
-          "matchUpdateTypes": ["major", "minor", "patch"],
+          "matchUpdateTypes": ["major", "minor"],
           "enabled": true,
           "postUpgradeTasks": {
             "commands": [

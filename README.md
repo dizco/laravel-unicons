@@ -9,6 +9,9 @@
   </a>
 </p>
 
+## Releases
+This package uses the same major and minor versions as @iconscout/unicons, but will have different patch versions.
+
 ## Contibuting
 - Star this GitHub repo :star:
 
