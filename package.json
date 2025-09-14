@@ -25,5 +25,8 @@
     "homepage": "https://iconscout.com/unicons",
     "devDependencies": {
       "@iconscout/unicons": "4.2.0"
-    }
+    },
+    "files": [
+      "unicons"
+    ]
   }
