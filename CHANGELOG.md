@@ -1,5 +1,13 @@
 # Changelog
 
+## [4.2.2](https://github.com/dizco/laravel-unicons/compare/v4.2.1...v4.2.2) (2025-09-15)
+
+
+### Bug Fixes
+
+* Update release please token ([0875883](https://github.com/dizco/laravel-unicons/commit/0875883526e50ac2ff42a88beba836d26c0819fa))
+* Update release please token ([4d06ed7](https://github.com/dizco/laravel-unicons/commit/4d06ed7e90f353c8c3e0b3594accbfc14e3cf949))
+
 ## [4.2.1](https://github.com/dizco/laravel-unicons/compare/v4.2.0...v4.2.1) (2025-09-14)
 
 
